@@ -10,7 +10,7 @@
 
 #food {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 100%;
     text-align: center;
 }
 
