@@ -10,7 +10,7 @@
 
 #food {
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: auto auto auto auto;
     text-align: center;
 }
 
@@ -22,7 +22,7 @@
     background-image: linear-gradient(#FBCED4, #FBCED4);
     text-align: center;
     display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-columns: auto auto auto;
 }
 
 h2 {
